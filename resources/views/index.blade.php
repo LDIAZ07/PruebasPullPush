@@ -26,5 +26,7 @@
             @endforeach
         </tbody>
     </table>
+
+    <p>Un cambio</p>
 </body>
 </html>
