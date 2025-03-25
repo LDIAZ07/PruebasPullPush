@@ -28,5 +28,7 @@
     </table>
 
     <p>Un cambio</p>
+
+    <p>Segundo cambio</p>
 </body>
 </html>
